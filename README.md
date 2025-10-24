@@ -4,8 +4,9 @@
 <p align="left"> <a href="https://twitter.com/homeboy_dave" target="blank"><img src="https://img.shields.io/twitter/follow/homeboy_dave?logo=twitter&style=for-the-badge" alt="homeboy_dave" /></a> </p>
 
 - 🔭 I’m currently working on [a Secure app.](https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3--5173--96435430.local-credentialless.webcontainer-api.io/)
+- 
 
-- 🌱 I’m currently learning **the Google cybersecurity certificate course supplemnting it with hands-on knowledge through rooms on tryhackme.**
+- 🌱 I’m currently learning **the Google cybersecurity certificate course, supplementing it with hands-on knowledge through rooms on TryHackMe.**
 
 - 👯 I’m looking to collaborate on **Cybersecurity Projects.**
 
